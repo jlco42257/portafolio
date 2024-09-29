@@ -2,6 +2,7 @@
   "name": "portafolio",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://jlco42257.github.io/portafolio/build",
   "type": "module",
   "scripts": {
     "dev": "vite",
