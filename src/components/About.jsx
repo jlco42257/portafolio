@@ -1,7 +1,6 @@
-import Svg from '../assets/Icons8-html.jsx'
 function About() {
   return (
-    <div id="sobre-mi" className='text-white px-5 text-center h-svh flex flex-col justify-evenly'>
+    <div id="sobre-mi" className='px-5 text-center h-svh flex flex-col justify-evenly'>
       <h2 className="font-bold text-4xl">Sobre mí</h2>
       <div className="">
         <p>¡Hola! Soy José, un estudiante de ingeniería de sistemas con pasión por la programación.</p>
