@@ -6,7 +6,7 @@ function Haedaer() {
           <li className="hover:bg-slate-800 hover:text-white p-5 rounded-l-3xl"><a href="#inicio">Inicio</a></li>
           <li className="hover:bg-slate-800 hover:text-white p-5 "><a href="#sobre-mi" >Sobre mí</a></li>
           <li className="hover:bg-slate-800 hover:text-white p-5 "><a href="#projects">Proyectos</a></li>
-          <li className="hover:bg-slate-800 hover:text-white p-5 rounded-r-3xl">Contacto</li>
+          <li className="hover:bg-slate-800 hover:text-white p-5 rounded-r-3xl"><a href="#contacto">Contacto</a></li>
         </ul>
       </nav>
     </>
